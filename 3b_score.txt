@@ -1,1 +1,1 @@
-3b: Score = 1600 in 1685 ms
+3b: Score = 1600 in 1529 ms
